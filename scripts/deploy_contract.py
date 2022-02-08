@@ -93,9 +93,9 @@ def transfer_linkTokens():
 
 
 def main():
-    # deploy_contract()
-    # lottery_fee()
+    deploy_contract()
+    lottery_fee()
     start_lottery()
-    # enter_lottery()
-    # transfer_linkTokens()
-    # close_lottery()
+    enter_lottery()
+    transfer_linkTokens()
+    close_lottery()
